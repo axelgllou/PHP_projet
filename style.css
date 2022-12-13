@@ -47,16 +47,14 @@ body{
    }
 
    ul{
-    width: 100%;
+    width: 50%;
     display: flex;
     list-style-type: none;
     justify-content: space-between;
 }
 
 li{
-    width:10vw;
     border: 5px grey solid ;
-    padding:1em;
     border-radius: 15px;
 }
 
