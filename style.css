@@ -70,9 +70,14 @@ nav ul {
 }
 
 nav>ul>li {
+    text-align: right;
     display: inline-block;
     /*list-style: none;*/
     margin: 15px;
     position: relative;
     background: #f76ab7;
+    width:5vw;
+    border: 5px #f51992  ;
+    border-radius: 15px;
+    padding: 1em;
 }
