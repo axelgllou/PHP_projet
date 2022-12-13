@@ -54,8 +54,10 @@ body{
 }
 
 li{
+    width:5vw;
     border: 5px #f51992  ;
     border-radius: 15px;
+    padding: 1em;
 }
 
 
