@@ -47,7 +47,7 @@ body{
    }
 
    ul{
-    
+    width: 100%;
     display: flex;
     list-style-type: none;
     justify-content: space-between;
