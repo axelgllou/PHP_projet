@@ -18,7 +18,8 @@ body{
     grid-column: 3;
     background-color: aliceblue;
     
-    text-align: right;
+    display: flex;
+    justify-content: center;
 }
 
 #LOGO{
@@ -26,5 +27,15 @@ body{
     justify-self: center;
 }
 
+.iconeLEFT{
+    padding-left: 10px;
+}
+
+span{
+    display: block;
+    padding-top: 30px;
+    padding-left: 250px;
+    
+}
 
 
