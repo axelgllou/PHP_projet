@@ -2,7 +2,7 @@
  <head>
  <meta charset="utf-8">
 
- <link rel="stylesheet" href="style.css" media="screen" type="text/css" />
+ <link rel="stylesheet" href="css/style.css" media="screen" type="text/css" />
  </head>
  <body style='background:#fff;'>
  <div id="content">
