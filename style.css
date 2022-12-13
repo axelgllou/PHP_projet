@@ -60,23 +60,10 @@ li{
     padding: 1em;
 }
 
-
-.bleu {
-    background: #f76ab7;
-    width:5vw;
-    border: 5px #38001f  ;
-    border-radius: 15px;
-    padding: 1em;
-    text-decoration: none;
-    color: #fff;
-}
-
 nav ul {
     text-align: right;
-    text-decoration: none;
-    color: #fff;
 }
-/**
+
 nav>ul>li {
     text-align: right;
     display: inline-block;
@@ -91,4 +78,3 @@ nav>ul>li {
     text-decoration: none;
     color: #fff;
 }
-*/
