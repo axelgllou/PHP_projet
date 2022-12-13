@@ -60,3 +60,15 @@ li{
     border-radius: 15px;
     background-color: #00000031;
 }
+
+nav ul {
+    text-align: right;
+}
+
+nav>ul>li {
+    display: inline-block;
+    /*list-style: none;*/
+    margin: 17px;
+    position: relative;
+    background: blue;
+}
