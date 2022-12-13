@@ -47,14 +47,14 @@ body{
    }
 
    ul{
-    width: 50%;
+    
     display: flex;
     list-style-type: none;
     justify-content: space-between;
 }
 
 li{
-    border: 5px grey solid ;
+    border: 5px #f51992  ;
     border-radius: 15px;
 }
 
@@ -70,7 +70,7 @@ nav ul {
 nav>ul>li {
     display: inline-block;
     /*list-style: none;*/
-    margin: 17px;
+    margin: 10px;
     position: relative;
     background: #f76ab7;
 }
