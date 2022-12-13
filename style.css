@@ -76,11 +76,11 @@ nav ul {
     text-decoration: none;
     color: #fff;
 }
-
+/**
 nav>ul>li {
     text-align: right;
     display: inline-block;
-    /*list-style: none;*/
+    list-style: none;
     margin: 15px;
     position: relative;
     background: #f76ab7;
@@ -91,3 +91,4 @@ nav>ul>li {
     text-decoration: none;
     color: #fff;
 }
+*/
