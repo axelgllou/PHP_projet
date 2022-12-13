@@ -1,5 +1,5 @@
 body{
-    background: #f3b7f3;
+    background: #eeaed1;
    }
    #container{
     width:400px;
@@ -45,3 +45,18 @@ body{
     color: #53af57;
     border: 1px solid #53af57;
    }
+
+   ul{
+    width: 100%;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+}
+
+li{
+    width:10vw;
+    border: 5px grey solid ;
+    padding:1em;
+    border-radius: 15px;
+    background-color: #00000031;
+}
