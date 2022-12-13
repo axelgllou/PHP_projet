@@ -78,3 +78,13 @@ nav>ul>li {
     text-decoration: none;
     color: #fff;
 }
+
+nav li a {
+    display: inline-block;
+    width: 200px;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    /** background: red;*/
+}
